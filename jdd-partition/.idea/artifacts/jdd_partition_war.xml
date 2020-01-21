@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jdd-partition:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jdd-partition-1.0.0.war">
+      <element id="artifact" artifact-name="jdd-partition:war exploded" />
+    </root>
+  </artifact>
+</component>

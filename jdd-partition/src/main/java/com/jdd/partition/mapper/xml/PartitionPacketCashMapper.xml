@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jdd.partition.mapper.PartitionPacketCashMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.jdd.partition.entity.PartitionPacketCash">
+        <id column="id" property="id" />
+        <result column="partition_id" property="partitionId" />
+        <result column="cardcust_id" property="cardcustId" />
+        <result column="cust_tel" property="custTel" />
+        <result column="cust_name" property="custName" />
+        <result column="icon_pic" property="iconPic" />
+        <result column="amount" property="amount" />
+        <result column="medium_id" property="mediumId" />
+        <result column="audit_remark" property="auditRemark" />
+        <result column="status" property="status" />
+        <result column="create_time" property="createTime" />
+        <result column="modify_time" property="modifyTime" />
+        <result column="version" property="version" />
+        <result column="remark" property="remark" />
+        <result column="terminal" property="terminal" />
+    </resultMap>
+
+</mapper>

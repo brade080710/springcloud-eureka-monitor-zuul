@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1688214f-2645-4554-9b17-e57649ede04b" name="Default Changelist" comment="红包活动">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jdd/partition/JddPartitionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jdd/partition/generate/MysqlGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/generator/template/controller.java.ftl" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-255434866">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1958571095">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="3" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.78" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.opened" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="19" />
+          <entry key="ftl" value="4" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="243" />
+          <entry key="properties" value="39" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="19" />
+          <entry key="FTL" value="4" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="243" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="39" />
+          <entry key="XML" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="31" />
+          <entry key="ftl" value="44" />
+          <entry key="java" value="7476" />
+          <entry key="properties" value="128" />
+          <entry key="txt" value="19" />
+          <entry key="xml" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="FTL" value="44" />
+          <entry key="JAVA" value="7476" />
+          <entry key="PLAIN_TEXT" value="50" />
+          <entry key="Properties" value="128" />
+          <entry key="XML" value="88" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionRedPacketUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-69">
+              <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionAssistDetailController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-979">
+              <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/client/filter/ClientTokenAuthFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/filter/AppTokenAuthFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/FeignRequestInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yyyy-MM-dd HH:mm:ss</find>
+      <find>partitionAssistDetailService</find>
+      <find>Access-Control-Allow-Origin</find>
+      <find>4</find>
+      <find>openId</find>
+      <find>partitionRedPacketUserService.count()</find>
+      <find>JSON</find>
+      <find>spring-boot-admin-starter-client</find>
+      <find>spring.security.user.name</find>
+      <find>FeignConfig</find>
+      <find>jdd.has.packet.url</find>
+      <find>jdd.has.no.packet.url</find>
+      <find>mysql-connector-java</find>
+      <find>fastjson</find>
+      <find>无法访问服务器</find>
+      <find>head_url</find>
+      <find>iconPic</find>
+      <find>20</find>
+      <find>LIMITCOUNT</find>
+      <find>create_time</find>
+      <find>累计送出红包</find>
+      <find>selectPacketDetail</find>
+      <find>speedName</find>
+      <find>PartitionRedPacketUser</find>
+      <find>selectRandom</find>
+      <find>randomTen</find>
+      <find>mybatis-plus</find>
+      <find>cardcust_id</find>
+      <find>IcbcUserAccountClientFallback</find>
+      <find>IcbcUserAccountClient</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>partition</replace>
+      <replace>Date</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response39.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/thirdparty/JddPartitionApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/banner.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/xml/PartnerCheckedHistoryMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/app/filter/AppTokenAuthFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/util/TokenUserUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/template/controller.java.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/open/PartitionRedPacketUserController.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/generator/template/controller.java.ftl" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jdd/partition/generate/MysqlGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jdd/partition/JddPartitionApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionAssistDetailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/util/RandomUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/util/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/common/RedisKeys.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/common/MqQueueConstant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/rabbitMq/ETCUserApplaySynchListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/config/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/util/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/config/CorsFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/config/FilerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/common/ResultGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/common/ResultCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/client/rest/IcbcUserAccountClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/common/Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/IcbcUserAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/vo/ElectronicAssist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/common/TokenUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/PartitionRedPacketUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/PartitionPacketCash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/xml/PartitionPacketCashMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/xml/PartitionAssistDetailMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/PartitionAssistDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/rabbitMq/MQReceiveListenerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/service/impl/PartitionRedPacketUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/PartitionRedPacketUserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/service/PartitionRedPacketUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/xml/PartitionRedPacketUserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionPacketCashController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/rabbitMq/PartitionPacketListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionRedPacketUserController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jdd-partition" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jdd-partition" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="PartitionRedPacketUserController" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="IcbcUserAccountClient" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="IcbcUserAccountClient" type="1a9f42e2:ClassTreeNode" />
+              <item name="IcbcUserAccountClientFallback" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="FeignConfig" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="FeignRequestInterceptor" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="FilerConfig" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="PartitionAssistDetail" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="PartitionPacketCash" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMq" type="462c0819:PsiDirectoryNode" />
+              <item name="PartitionPacketListener" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partition" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="PartitionRedPacketUserServiceImpl" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="jdd-partition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdd-partition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579418292776" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jdd.partition.entity" />
+      <recent name="com.jdd.partition.client.rest" />
+      <recent name="com.jdd.partition.config" />
+      <recent name="com.jdd.partition.rabbitMq" />
+      <recent name="com.jdd.partition.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\ideaspringcloud\jdd-partition\src\main\java\com\jdd\partition\rabbitMq" />
+      <recent name="G:\ideaspringcloud\jdd-partition\src\test" />
+      <recent name="G:\ideaspringcloud\jdd-partition\src\test\java\com\jdd\partition\generate" />
+      <recent name="G:\ideaspringcloud\jdd-partition\src\test\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8087" />
+          <option name="urlPath" value="/app/token/partitionRedPacketUser/partition" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessToken" />
+                <option name="value" value="00067b4310ded21a79bf82ee6c54f754" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8087" />
+          <option name="urlPath" value="/app/token/partitionRedPacketUser/partition" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessToken" />
+                <option name="value" value="a78bfefecb7548b5b47a52766a11f918" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8087" />
+          <option name="urlPath" value="/app/token/partitionRedPacketUser/partition" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessToken" />
+                <option name="value" value="00067b4310ded21a79bf82ee6c54f754" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8086" />
+          <option name="urlPath" value="/app/token/partitionRedPacketUser/partition" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessToken" />
+                <option name="value" value="00067b4310ded21a79bf82ee6c54f754" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8086" />
+          <option name="urlPath" value="/app/token/partitionRedPacketUser/partition" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="accessToken" />
+                <option name="value" value="00067b4310ded21a79bf82ee6c54f754" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JddPartitonApplication">
+    <configuration name="MysqlGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdd.partition.generate.MysqlGenerator" />
+      <module name="jdd-partition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdd.partition.generate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdd.partition.util.Test" />
+      <module name="jdd-partition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdd.partition.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MQReceiveListenerTest.receiveMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdd-partition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdd.partition.rabbitMq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdd.partition.rabbitMq" />
+      <option name="MAIN_CLASS_NAME" value="com.jdd.partition.rabbitMq.MQReceiveListenerTest" />
+      <option name="METHOD_NAME" value="receiveMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JddPartitonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jdd-partition" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jdd.partition.JddPartitionApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.JddPartitonApplication" />
+      <item itemvalue="Application.MysqlGenerator" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JUnit.MQReceiveListenerTest.receiveMap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MQReceiveListenerTest.receiveMap" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MysqlGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1688214f-2645-4554-9b17-e57649ede04b" name="Default Changelist" comment="" />
+      <created>1576134515427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576134515427</updated>
+      <workItem from="1576134518827" duration="54000" />
+      <workItem from="1576134762479" duration="12426000" />
+      <workItem from="1576198750650" duration="4291000" />
+      <workItem from="1576458739331" duration="21070000" />
+      <workItem from="1576544206650" duration="18651000" />
+      <workItem from="1576631152675" duration="14838000" />
+      <workItem from="1576717120375" duration="19495000" />
+      <workItem from="1576803699266" duration="17097000" />
+      <workItem from="1577063028553" duration="16510000" />
+      <workItem from="1577149314637" duration="14661000" />
+      <workItem from="1577235565652" duration="12903000" />
+      <workItem from="1577321976774" duration="8742000" />
+      <workItem from="1577408304103" duration="9335000" />
+      <workItem from="1577667954286" duration="746000" />
+      <workItem from="1577669982890" duration="10084000" />
+      <workItem from="1577754001709" duration="23958000" />
+      <workItem from="1577926797156" duration="21686000" />
+      <workItem from="1578013115103" duration="16319000" />
+      <workItem from="1578272335605" duration="5988000" />
+      <workItem from="1578358421795" duration="4817000" />
+      <workItem from="1578445117609" duration="2247000" />
+      <workItem from="1578450806264" duration="589000" />
+      <workItem from="1578453122228" duration="1777000" />
+      <workItem from="1578466824009" duration="713000" />
+      <workItem from="1578531528245" duration="7756000" />
+      <workItem from="1578616424324" duration="7646000" />
+      <workItem from="1578702622157" duration="1519000" />
+      <workItem from="1578876031674" duration="2261000" />
+      <workItem from="1578885127309" duration="161000" />
+      <workItem from="1578892026559" duration="627000" />
+      <workItem from="1578969655706" duration="17509000" />
+      <workItem from="1579050710769" duration="895000" />
+      <workItem from="1579051630582" duration="6046000" />
+      <workItem from="1579081953580" duration="4012000" />
+      <workItem from="1579136531615" duration="7877000" />
+      <workItem from="1579324174472" duration="1849000" />
+      <workItem from="1579395728523" duration="12721000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化红包活动">
+      <created>1576143206283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576143206283</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初始化红包活动">
+      <created>1576143845557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576143845557</updated>
+    </task>
+    <task id="LOCAL-00003" summary="红包活动">
+      <created>1577670509662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577670509662</updated>
+    </task>
+    <task id="LOCAL-00004" summary="红包活动">
+      <created>1577947480382</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577947480382</updated>
+    </task>
+    <task id="LOCAL-00005" summary="红包活动">
+      <created>1578619568019</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578619568019</updated>
+    </task>
+    <task id="LOCAL-00006" summary="红包活动">
+      <created>1578973145055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578973145055</updated>
+    </task>
+    <task id="LOCAL-00007" summary="红包活动">
+      <created>1578995096180</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578995096180</updated>
+    </task>
+    <task id="LOCAL-00008" summary="红包活动">
+      <created>1579144979513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579144979513</updated>
+    </task>
+    <task id="LOCAL-00009" summary="红包活动">
+      <created>1579417376605</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579417376605</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MQReceiveListenerTest_receiveMap - 2019.12.18 at 14h 43m 02s.xml">
+      <configuration name="MQReceiveListenerTest.receiveMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MQReceiveListenerTest_receiveMap - 2019.12.18 at 14h 47m 21s.xml">
+      <configuration name="MQReceiveListenerTest.receiveMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MQReceiveListenerTest_receiveMap - 2019.12.18 at 15h 06m 35s.xml">
+      <configuration name="MQReceiveListenerTest.receiveMap" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="329876000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23773988" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6748401" weight="0.257329" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4968017" visible="true" weight="0.23995657" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49840087" weight="0.38110748" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.29858848" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.23018458" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" sideWeight="0.50159913" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32899022" />
+      <window_info anchor="bottom" id="Problems" order="13" weight="0.32899022" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49946696" weight="0.32899022" />
+      <window_info anchor="bottom" id="REST Client" order="17" weight="0.33116177" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.1924307" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化红包活动" />
+    <MESSAGE value="红包活动" />
+    <option name="LAST_COMMIT_MESSAGE" value="红包活动" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="883" column="16" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.1/mybatis-plus-core-3.1.1-sources.jar!/com/baomidou/mybatisplus/core/toolkit/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/util/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/CorsFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/util/ResponseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/common/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar!/org/slf4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1381">
+          <caret line="606" column="16" selection-start-line="606" selection-start-column="16" selection-end-line="606" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/filter/AppSignFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="74" column="51" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="169" column="35" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/IcbcUserAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2472">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/common/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/vo/ElectronicAssist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/common/ResultGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/common/MqQueueConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/xml/PartitionPacketCashMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/util/TokenUserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/xml/PartitionAssistDetailMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/common/TokenUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/rabbitMq/MQReceiveListenerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1374">
+          <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="521" column="27" selection-start-line="521" selection-start-column="27" selection-end-line="521" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="512" lean-forward="true" selection-start-line="512" selection-end-line="512" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/PartitionRedPacketUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.1/mybatis-plus-core-3.1.1-sources.jar!/com/baomidou/mybatisplus/core/override/MybatisMapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/PartitionRedPacketUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/service/PartitionRedPacketUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/mapper/xml/PartitionRedPacketUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.1/mybatis-plus-extension-3.1.1-sources.jar!/com/baomidou/mybatisplus/extension/service/IService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="255" column="13" selection-start-line="255" selection-start-column="13" selection-end-line="255" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/util/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/filter/AppTokenAuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/client/filter/ClientTokenAuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/AppErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="57" column="38" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/client/rest/IcbcUserAccountClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionAssistDetailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-979">
+          <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionPacketCashController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="98" column="39" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/rabbitMq/PartitionPacketListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/service/impl/PartitionRedPacketUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/FilerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/FeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/PartitionAssistDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/entity/PartitionPacketCash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="55" column="27" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="256" column="47" selection-start-line="256" selection-start-column="47" selection-end-line="256" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdd-partition.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/config/FeignRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jdd/partition/app/rest/PartitionRedPacketUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
